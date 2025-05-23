@@ -1,0 +1,100 @@
+List all students in the Planning Department.
+Which students received grade C?
+Show all courses taught by Mrs. Breanna Phillips DVM.
+Who is enrolled in the course 'Strong 101'?
+List courses available in the Summer semester.
+List all students in the Public Department.
+Which students received grade D?
+Show all courses taught by Joel Wood.
+Who is enrolled in the course 'Whatever 101'?
+List courses available in the Spring semester.
+List all students in the Lexicographer Department.
+Which students received grade B?
+Show all courses taught by Tanya Rogers.
+Who is enrolled in the course 'Fall 101'?
+List courses available in the Fall semester.
+List all students in the Planning Department.
+Which students received grade A?
+Show all courses taught by Tanya Rogers.
+Who is enrolled in the course 'Relate 101'?
+List courses available in the Fall semester.
+List all students in the Public Department.
+Which students received grade B?
+Show all courses taught by Brandy Summers.
+Who is enrolled in the course 'Boy 101'?
+List courses available in the Summer semester.
+List all students in the Lexicographer Department.
+Which students received grade F?
+Show all courses taught by Brandy Summers.
+Who is enrolled in the course 'Medical 101'?
+List courses available in the Spring semester.
+List all students in the Planning Department.
+Which students received grade F?
+Show all courses taught by Taylor Garza.
+Who is enrolled in the course 'Half 101'?
+List courses available in the Summer semester.
+List all students in the Building Department.
+Which students received grade A?
+Show all courses taught by Taylor Garza.
+Who is enrolled in the course 'Relate 101'?
+List courses available in the Summer semester.
+List all students in the Lexicographer Department.
+Which students received grade D?
+Show all courses taught by Mrs. Breanna Phillips DVM.
+Who is enrolled in the course 'Room 101'?
+List courses available in the Spring semester.
+List all students in the Building Department.
+Which students received grade A?
+Show all courses taught by Amber Alvarado.
+Who is enrolled in the course 'Tough 101'?
+List courses available in the Fall semester.
+List all students in the Engineer, Department.
+Which students received grade C?
+Show all courses taught by Amber Alvarado.
+Who is enrolled in the course 'Plant 101'?
+List courses available in the Spring semester.
+List all students in the Public Department.
+Which students received grade F?
+Show all courses taught by Ms. Jennifer Gilbert.
+Who is enrolled in the course 'Agency 101'?
+List courses available in the Spring semester.
+List all students in the Engineer, Department.
+Which students received grade C?
+Show all courses taught by Mrs. Breanna Phillips DVM.
+Who is enrolled in the course 'Plant 101'?
+List courses available in the Fall semester.
+List all students in the Engineer, Department.
+Which students received grade A?
+Show all courses taught by Taylor Garza.
+Who is enrolled in the course 'Half 101'?
+List courses available in the Fall semester.
+List all students in the Planning Department.
+Which students received grade B?
+Show all courses taught by Elizabeth Murphy.
+Who is enrolled in the course 'Fall 101'?
+List courses available in the Summer semester.
+List all students in the Lexicographer Department.
+Which students received grade B?
+Show all courses taught by John Phillips.
+Who is enrolled in the course 'Term 101'?
+List courses available in the Fall semester.
+List all students in the Engineer, Department.
+Which students received grade A?
+Show all courses taught by Mrs. Breanna Phillips DVM.
+Who is enrolled in the course 'Strong 101'?
+List courses available in the Fall semester.
+List all students in the Public Department.
+Which students received grade A?
+Show all courses taught by Mrs. Breanna Phillips DVM.
+Who is enrolled in the course 'Room 101'?
+List courses available in the Fall semester.
+List all students in the Lexicographer Department.
+Which students received grade B?
+Show all courses taught by Ms. Jennifer Gilbert.
+Who is enrolled in the course 'Strong 101'?
+List courses available in the Spring semester.
+List all students in the Building Department.
+Which students received grade B?
+Show all courses taught by Joel Wood.
+Who is enrolled in the course 'Half 101'?
+List courses available in the Spring semester.

@@ -1,0 +1,16 @@
+INSERT INTO professors VALUES (1, 'Robert Hall', 'rogersmary@yahoo.com', 2);
+INSERT INTO professors VALUES (2, 'Joel Wood', 'ahurley@hotmail.com', 2);
+INSERT INTO professors VALUES (3, 'Christian Andersen', 'pleblanc@gmail.com', 5);
+INSERT INTO professors VALUES (4, 'Amber Alvarado', 'hernandezmargaret@smith.com', 2);
+INSERT INTO professors VALUES (5, 'Taylor Garza', 'ocooper@hotmail.com', 4);
+INSERT INTO professors VALUES (6, 'Mrs. Breanna Phillips DVM', 'rkelly@bishop.com', 5);
+INSERT INTO professors VALUES (7, 'Ms. Jennifer Gilbert', 'christopherfigueroa@velazquez.com', 3);
+INSERT INTO professors VALUES (8, 'Lisa Burke', 'robertturner@brown.biz', 4);
+INSERT INTO professors VALUES (9, 'Tanya Rogers', 'jamesrivera@michael-williams.biz', 4);
+INSERT INTO professors VALUES (10, 'Bethany Fox', 'robinsonmichael@bartlett-peterson.com', 5);
+INSERT INTO professors VALUES (11, 'Elizabeth Murphy', 'craig32@gmail.com', 2);
+INSERT INTO professors VALUES (12, 'Cynthia Sawyer', 'stephanierobinson@johnson.com', 5);
+INSERT INTO professors VALUES (13, 'John Phillips', 'franksara@wilson.com', 4);
+INSERT INTO professors VALUES (14, 'Brandy Summers', 'brownjoseph@sanchez.com', 3);
+INSERT INTO professors VALUES (15, 'Amber Sexton', 'amandaphillips@lee-hernandez.com', 3);
+SELECT * FROM university.professors;
